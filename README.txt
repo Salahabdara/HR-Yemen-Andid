@@ -1,0 +1,1 @@
+Static files like images can go here.
